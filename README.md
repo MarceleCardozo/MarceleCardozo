@@ -6,7 +6,7 @@
 
 <p align="left">
   Formada em Técnico em Agropecuária.
-  Atualmente cursando o Programa Starter Full Stack Web Developer na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
+  Atualmente cursando a 14ª edição do Programa Starter Full Stack Web Developer na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
 </p>
 
 <p align="left">
