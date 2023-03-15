@@ -10,26 +10,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarceleCardozo&bg_color=FFF0F5&color=ff91a4&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## Olá, seja bem vindo(a)! Eu sou a Marcele Dutra Cardozo :sparkling_heart:
-
-<p align="left">
-  Nas horas vagas gosto de jogar.
-</p>
-
-<p align="left">
-  Formada em Técnico em Agropecuária.
-  Atualmente cursando a 14ª edição do Programa Starter Full Stack Web Developer na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
-</p>
-
-<p align="left">
-  Sem Preferência de Linguagem de Programação até o momento.
- </p>
- 
- <div>
-  <a href="https://github.com/MarceleCardozo">
-    <img height="180 em" src="https://github-readme-stats.vercel.app/api?username=MarceleCardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Mar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
