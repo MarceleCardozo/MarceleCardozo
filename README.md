@@ -1,15 +1,12 @@
-## Olá, seja bem vindo(a)! Eu sou a Marcele Cardozo :sparkling_heart:
+## Olá, seja bem vindo(a)! Eu sou a Marcele Dutra Cardozo :sparkling_heart:
 
 <p align="left">
-  Marcele Dutra Cardozo
+  Nas horas vagas gosto de jogar.
 </p>
 
 <p align="left">
-  Cursando o Programa starter developer web full stack na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
-</p>
-
-<p align="left">
-  Formada em Técnico em Agropecuária
+  Formada em Técnico em Agropecuária.
+  Atualmente cursando o Programa Starter Full Stack Web Developer na <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
 </p>
 
 <p align="left">
